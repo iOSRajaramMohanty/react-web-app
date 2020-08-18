@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Open this project with [react-web-app](https://master.dokhf9lm0k7kg.amplifyapp.com/).
 
 ## Available Scripts
 
