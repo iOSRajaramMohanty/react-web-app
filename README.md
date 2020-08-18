@@ -1,4 +1,4 @@
-Open this project with [react-web-app](https://master.dokhf9lm0k7kg.amplifyapp.com/).
+[react-web-app](https://master.dokhf9lm0k7kg.amplifyapp.com/) click to open this project.
 
 ## Available Scripts
 
